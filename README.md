@@ -7,6 +7,6 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo cod
 
 Java<br><br><br>
 
-<img src="https://github.com/ItaloBasilio/dio-java-desafio-1/blob/master/image.png?raw=true" >
+<img src="https://github.com/ItaloBasilio/DesafioControleFluxo/blob/master/imagem.png?raw=true" >
 
 Ítalo Basilio da Silva.
